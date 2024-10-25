@@ -79,7 +79,7 @@ Run the database migrations:
 `npx sequelize-cli db:migrate`
 Start the server:
 
-`npm start`
+`npm run dev`
 
 ## Endpoints
 
